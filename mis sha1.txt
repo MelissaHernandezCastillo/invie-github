@@ -1,0 +1,8 @@
+5cd1d02
+
+
+$ git log --oneline
+0695bbb (HEAD -> master) agregando guitarra acustica
+560e275 sumando nuevo hero
+5989a54 (tag: 0.5) Agregando el header
+5cd1d02 (tag: 0.3, tag: 0.1) Inicializar nuestro landing
